@@ -1,0 +1,3 @@
+Algorithm,Alpha,Final Avg Train Reward,Eval Mean Reward,Eval Mean Length,Episode Reaches Threshold,Reward AUC,Final Mean Episode Length
+sarsa,0.5,-25.72533333333333,-17.0,17.0,102,-18381.833333333336,21.765333333333334
+q_learning,0.5,-47.14066666666667,-13.0,13.0,155,-28192.933333333334,16.714666666666666
