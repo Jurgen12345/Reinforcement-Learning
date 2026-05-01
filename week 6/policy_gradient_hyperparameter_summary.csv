@@ -1,0 +1,2 @@
+CartPole REINFORCE policy network,CartPole baseline value network,CartPole gamma,CartPole policy learning rate,CartPole value learning rate,CartPole optimizer,Pendulum actor network,Pendulum critic network,Pendulum gamma,Pendulum actor learning rate,Pendulum critic learning rate,Pendulum entropy coefficient,Pendulum initial log std,Pendulum optimizer
+"(128, 128), ReLU","(128, 128), ReLU",0.99,0.001,0.001,Adam,"(128, 128), Tanh","(128, 128), Tanh",0.99,0.0003,0.001,0.001,-0.5,Adam
