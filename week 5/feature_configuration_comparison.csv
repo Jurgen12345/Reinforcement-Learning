@@ -1,0 +1,6 @@
+Name,Num Tilings,Tiles Per Dim,Total Features,Alpha,Final Avg Length,Final Avg Return,Final Success Rate,First Success Episode,Eval Mean Length,Eval Mean Return,Eval Success Rate
+"4 tilings, 8x8 tiles",4,"(8, 8)",256,0.4,144.75,-144.75,0.94,551,152.72,-152.72,1.0
+"8 tilings, 8x8 tiles",8,"(8, 8)",512,0.4,121.78,-121.78,1.0,452,112.98,-112.98,1.0
+"16 tilings, 8x8 tiles",16,"(8, 8)",1024,0.4,129.87,-129.87,0.99,404,108.96,-108.96,1.0
+"8 tilings, 4x4 tiles",8,"(4, 4)",128,0.4,152.4,-152.4,0.81,487,143.95,-143.95,0.93
+"8 tilings, 12x12 tiles",8,"(12, 12)",1152,0.4,128.94,-128.94,1.0,452,107.47,-107.47,1.0

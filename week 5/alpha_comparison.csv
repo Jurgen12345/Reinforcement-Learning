@@ -1,0 +1,5 @@
+Name,Num Tilings,Tiles Per Dim,Total Features,Alpha,Final Avg Length,Final Avg Return,Final Success Rate,First Success Episode,Eval Mean Length,Eval Mean Return,Eval Success Rate
+alpha = 0.1,8,"(8, 8)",512,0.1,139.95,-139.95,1.0,404,124.88,-124.88,1.0
+alpha = 0.2,8,"(8, 8)",512,0.2,132.93,-132.93,1.0,366,117.41,-117.41,1.0
+alpha = 0.4,8,"(8, 8)",512,0.4,121.78,-121.78,1.0,452,112.98,-112.98,1.0
+alpha = 0.8,8,"(8, 8)",512,0.8,160.15,-160.15,0.92,576,175.1,-175.1,0.98

@@ -1,0 +1,4 @@
+Name,Num Tilings,Tiles Per Dim,Total Features,Alpha,Final Avg Length,Final Avg Return,Final Success Rate,First Success Episode,Eval Mean Length,Eval Mean Return,Eval Success Rate
+constant epsilon = 0.1,8,"(8, 8)",512,0.4,140.69,-140.69,0.98,24,167.0,-167.0,0.81
+linear decay 1.0 to 0.05,8,"(8, 8)",512,0.4,121.78,-121.78,1.0,452,112.98,-112.98,1.0
+exponential decay 1.0 to 0.05,8,"(8, 8)",512,0.4,135.65,-135.65,0.98,149,145.34,-145.34,1.0
